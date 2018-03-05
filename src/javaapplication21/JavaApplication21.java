@@ -16,6 +16,7 @@ public class JavaApplication21 {
      */
     public static void main(String[] args) {
         System.out.println(" empiezo sout ");
+         System.out.println(" otro  sout ");
     }
     
 }
